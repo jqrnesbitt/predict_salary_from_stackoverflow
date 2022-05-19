@@ -8,4 +8,4 @@ This repo is for the final project submission for W207. Here we attempt to predi
  - Train/Test linear regression, random forest, SVC and logistic regression models through grid search and cross validation
  - Validate on unseen data and produce results
 
-Check out the full report [here](https://github.com/jqrnesbitt/predict_flight_delays_from_weather/blob/e2626bedecd279181294313c54e2342cf556d181/submissions/W261_SP22_FINAL_PROJECT_TEAM30.ipynb).
+Check out the full report [here]([https://github.com/jqrnesbitt/predict_flight_delays_from_weather/blob/e2626bedecd279181294313c54e2342cf556d181/submissions/W261_SP22_FINAL_PROJECT_TEAM30.ipynb](https://github.com/jqrnesbitt/predict_salary_from_stackoverflow/blob/7d27695c0840fafc367181e1d618e07a2b8278a1/final_project_notebook.ipynb)).
